@@ -1,1 +1,12 @@
 # CS330-Journal
+How do I approach designing software? What new design skills has your work on the project helped you to craft? What design process did you follow for your project work? How could tactics from your design approach be applied in future work?
+
+My approach into designing software is a combination of brainstorming my own ideas into the software for efficiency and convenience, but still working within the parameters of needs and expectations from the project rubric. Throughout the course of this class, I followed the milestones for this project as templates for what was expected of me. While meeting this goals, any additional work that was done was because of new information learned or researched that would benefit my scenery. This approach was important to continue because it allowed for uniqueness in my project and individuality in my work. It also allowed me to stay engaged with the resources that were used and to follow up with other resources that benefitted the course.
+
+How do I approach developing programs? What new development strategies did you use while working on your 3D scene? How did iteration factor into your development? How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+
+Iteration factor is an imoportant factor when it comes to project development. There are many different aspects of this scene that contributed to the final scenery of object, lighting, textures, shaders, and camera. By taking these iterations step by step, I was able to make clear and precise code that would allow me and others to continue adding to the project if needed. 
+
+How can computer science help me in reaching my goals? How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway? How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
+Computer science can help you reach your goals with the skills it helps you develop. Coding is a generalized word that software developers do. We also problem solve, design, and create...on top of other things. So whether it is is computational graphics and visualizations or other areas of IT work, computer science in general will be able to help us use the skills that we have learned for future positions. 
